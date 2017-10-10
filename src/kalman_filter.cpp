@@ -4,7 +4,12 @@
 using Eigen::MatrixXd;
 using Eigen::VectorXd;
 
+<<<<<<< HEAD
 double SNormalizeAngle(double phi);
+=======
+// Please note that the Eigen library does not initialize 
+// VectorXd or MatrixXd objects with zeros upon creation.
+>>>>>>> 3375bc42d7cd7887acf19b8534d0414ad173ca6c
 
 KalmanFilter::KalmanFilter() {}
 

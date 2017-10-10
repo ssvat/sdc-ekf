@@ -4,6 +4,9 @@ Self-Driving Car Engineer Nanodegree Program
 
 In this project I utilize a kalman filter to estimate the state of a moving object of interest with noisy lidar and radar measurements. Passing the project requires obtaining RMSE values that are lower that the tolerance values [0.11, 0.11, 0.52, 0.52].
 
+![Final RMSE by using Dataset 1](img/1.png)
+
+
 This project involves the Term 2 Simulator and installation of uWebSocketIO. The main program can be built and run by doing the following from the project top directory.
 
 mkdir build
